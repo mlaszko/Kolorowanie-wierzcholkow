@@ -1,1 +1,1 @@
-# Kolorowanie-wierzcholkow
+# Kolorowanie wierzchołków
